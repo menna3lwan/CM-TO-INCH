@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CMTOINCH</string>
+    <string name="enter_your_number_in_cm">Enter your number in cm</string>
+    <string name="_0">0</string>
+</resources>
